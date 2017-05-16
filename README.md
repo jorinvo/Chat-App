@@ -1,1 +1,0 @@
-check out my (http://)[this blog-post] to find out more about this project.
